@@ -18,7 +18,8 @@
   },
   "adminBot": [
     "61566044902819",
-    "100066628636816"
+    "100066628636816",
+    "100068854981769",
   ],
   "whiteListMode": {
     "enable": false,
@@ -26,7 +27,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ANMOL CREXX 💀 ",
+  "nickNameBot": "FC ",
   "prefix": "/",
   "database": {
     "type": "sqlite",
