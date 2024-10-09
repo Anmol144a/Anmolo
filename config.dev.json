@@ -9,21 +9,22 @@
     "intervalGetNewCookie": 14040,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
-  "antiInbox": false, 
+  "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-"adminBot": [
-  "61566044902819",
-  "100066628636816",
-  "100068854981769"
-]
+  "adminBot": [
+    "61566044902819",
+    "100066628636816",
+    "100068854981769"
+  ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61566044902819"
+    "whiteListIds": [
+      "61566044902819"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
